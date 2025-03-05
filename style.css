@@ -1,0 +1,15 @@
+.boxs{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    max-width:300px;
+    }
+    .box{
+    height:100px;
+    width:100px;
+    border:2px solid;
+    font-size:30px;
+    }
+    .box:hover{
+    background-color:#3A5B22;
+    }
